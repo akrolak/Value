@@ -1,0 +1,28 @@
+2_deploy_contracts.js
+=====================
+
+   Replacing 'Value'
+   -----------------
+   > transaction hash:    0x98f1919a8d3f13e70b61a63de17e8d9734ed0db932d4a370b4a8043e1e841be6
+   > Blocks: 0            Seconds: 12
+   > contract address:    0xACB002196ef793AEb24Aaf8AC839142A60770dAD
+   > block number:        30633
+   > block timestamp:     1596543326
+   > account:             0xeaa667b408c867998A2B7a06Dc2924f00E395F88
+   > balance:             61283.921353993709551615
+   > gas used:            242586
+   > gas price:           20 gwei
+   > value sent:          0 ETH
+   > total cost:          0.00485172 ETH
+
+
+   > Saving migration to chain.
+   > Saving artifacts
+   -------------------------------------
+   > Total cost:          0.00485172 ETH
+
+
+Summary
+=======
+> Total deployments:   2
+> Final cost:          0.00862138 ETH
